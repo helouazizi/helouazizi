@@ -19,66 +19,7 @@ My goal is to make **delivery fast for developers** and **systems reliable in pr
 
 ---
 
-## 🚀 Flagship Project
 
-### Cloud-Native Developer Platform
-
-A self-service developer platform that standardizes CI/CD workflows, Kubernetes deployments, and observability for microservices.
-
-**Key Features**
-- Opinionated service templates for fast onboarding  
-- Automated CI/CD pipelines with environment promotion  
-- Kubernetes-based runtime with resource governance  
-- Built-in observability using Prometheus and Grafana  
-
-**What This Demonstrates**
-- Platform engineering mindset  
-- Production-ready Kubernetes design  
-- CI/CD built as a platform, not per-project tooling  
-- Strong focus on reliability and developer experience  
-
-👉 Repository: _link here_  
-👉 Architecture Docs: _link here_
-
----
-
-## 🧩 Platform Design Philosophy
-
-I approach DevOps as a **product built for developers**, guided by these principles:
-
-- Reduce cognitive load for development teams  
-- Standardize workflows without blocking flexibility  
-- Favor automation over manual processes  
-- Treat CI/CD and infrastructure as long-term platforms  
-
-I value **clear abstractions**, **well-documented decisions**, and systems that scale with team growth.
-
----
-
-## 🛠️ Core Tech Stack
-
-**Platform & Runtime**
-- Kubernetes
-- Docker
-
-**CI/CD & Automation**
-- GitHub Actions
-- Helm
-
-**Infrastructure**
-- Terraform
-
-**Cloud**
-- AWS
-- GCP
-
-**Observability**
-- Prometheus
-- Grafana
-
-I prioritize **depth and production experience** over long tool lists.
-
----
 
 ## 👨‍💻 About Me
 
@@ -94,9 +35,9 @@ I’m especially interested in:
 
 ## 📫 Get in Touch
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/yourusername  
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/helouazizi  
+- GitHub: https://github.com/helouazizi  
+- Email: ouazizi2code@gmail.com
 
 ---
 
