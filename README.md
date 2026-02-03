@@ -1,45 +1,46 @@
-# 👋 Hi, I'm a Full-Stack Developer & Cloud-Native Platform Engineer
+# Hi there, I'm [Your Name] 👋
+### Full-Stack Developer | Passionate about Scalable Architecture & UX
 
-I’m a Full-Stack Developer with a strong focus on **cloud-native platforms, DevOps, and platform engineering**.  
-My background in application development allows me to design infrastructure and CI/CD systems that are **practical, scalable, and developer-friendly**.
-
-I specialize in building **internal developer platforms**, automating delivery pipelines, and running **production-grade Kubernetes infrastructure**.
-
----
-
-## 🧠 What I Do
-
-- Design and build **cloud-native platforms** for backend teams  
-- Create **CI/CD pipelines as reusable platforms**, not one-off scripts  
-- Operate and scale **Kubernetes-based microservice environments**  
-- Automate infrastructure using **Infrastructure as Code (IaC)**  
-- Improve **developer experience** by reducing cognitive load and manual work  
-
-My goal is to make **delivery fast for developers** and **systems reliable in production**.
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-helouazizi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/GitHub-helouazizi-black?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/Email-ouazizi2code@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</p>
 
 ---
-
-
 
 ## 👨‍💻 About Me
+- 🔭 I’m currently working on **[Feature Project Name]**
+- 🌱 Learning the latest in **[Cloud Architecture / AI Integration]**
+- 💬 Ask me about **MERN Stack, Next.js, and CI/CD pipelines**
+- ⚡ Fun fact: **I believe clean code is just as important as working code.**
 
-I started as a **full-stack developer** and transitioned into DevOps and platform engineering.  
-This background helps me bridge the gap between **application development and operations**, building platforms that developers actually enjoy using.
+## 🛠️ Tech Stack
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-I’m especially interested in:
-- Platform engineering
-- Kubernetes in production
-- Improving developer experience through automation
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📫 Get in Touch
-
-- LinkedIn: https://linkedin.com/in/helouazizi  
-- GitHub: https://github.com/helouazizi  
-- Email: ouazizi2code@gmail.com
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helouazizi&show_icons=true&theme=radical" alt="helouazizi Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helouazizi&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
-⭐ If you find my work useful, feel free to star a repo or reach out.
-
+## ⭐ Feel free to star my repos or reach out!
+*   **LinkedIn:** [helouazizi](https://linkedin.com/in/helouazizi)
+*   **Email:** [ouazizi2code@gmail.com](mailto:ouazizi2code@gmail.com)
