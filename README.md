@@ -43,13 +43,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
----
-
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helouazizi&show_icons=true&theme=radical" alt="helouazizi Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helouazizi&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 ---
 
