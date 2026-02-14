@@ -46,6 +46,35 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 
 ---
+<!-- ======================= -->
+<!-- 📊 GITHUB ANALYTICS HUB -->
+<!-- ======================= -->
+
+## ✨ GitHub Analytics Hub
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2e63&height=120&section=header&text=GitHub%20Metrics&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+---
+
+### 🚀 Performance Overview
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=helouazizi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=helouazizi&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🔥 Contribution Consistency
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helouazizi&theme=radical&hide_border=true" />
+</p>
+
+---
+
 
 ## ⭐ Feel free to star my repos or reach out!
 *   **LinkedIn:** [helouazizi](https://linkedin.com/in/helouazizi)
