@@ -1,6 +1,6 @@
 
-# Hi there, I'm [ Hassan El Ouazizi ] 👋
-### Full-Stack Developer | Passionate about Scalable Architecture & UX
+# Hi there, I'm Hassan El Ouazizi  👋
+### Full-Stack Developer | Passionate about Scalable Architecture & DX
 
 <p align="left">
   <img src="https://img.shields.io/badge/LinkedIn-helouazizi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **[wordium]**
-- 🌱 Learning the latest in **[fulstack]**
+- 🌱 Learning the latest in **Software Engineering**
 - 💬 Ask me about **systems & archetectures**
 - ⚡ Fun fact: **I believe clean code is just as important as working code.**
 
