@@ -21,7 +21,7 @@ I’m particularly interested in system design, distributed architectures, and b
 Next.js · Angular · Tailwind CSS · Angular Material
 
 **Backend**  
-Spring Boot · Django · Go · Java · Python
+Spring Boot · Django · Go · Java · Python . Kafka  
 
 **Databases**  
 PostgreSQL · MySQL · SQLite · MongoDB · Redis
@@ -29,8 +29,7 @@ PostgreSQL · MySQL · SQLite · MongoDB · Redis
 **DevOps & Infrastructure**  
 Docker · Docker Compose · Kubernetes · Helm · Nginx  
 CI/CD (GitHub Actions) · Terraform 
-Prometheus · Grafana  
-Kafka  
+Prometheus · Grafana  . Loki
 Git
 
 ---
