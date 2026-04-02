@@ -30,7 +30,7 @@ PostgreSQL · MySQL · SQLite · MongoDB · Redis
 Docker · Docker Compose · Kubernetes · Helm · Nginx  
 CI/CD (GitHub Actions) · Terraform 
 Prometheus · Grafana  . Loki
-Git
+. Git
 
 ---
 
