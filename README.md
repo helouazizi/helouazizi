@@ -1,66 +1,63 @@
 # Hassan El Ouazizi
 ### Backend Engineer | Distributed Systems & Cloud Architecture
 
-[LinkedIn](https://linkedin.com/in/helouazizi) · [Email](mailto:ouazizi2code@gmail.com)
+[LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com)
 
 ---
 
-## 🚀 About Me
-I am a Backend Engineer focused on building **high-availability, scalable, and resilient distributed systems**. I specialize in designing microservices architectures, optimizing database performance, and implementing robust CI/CD pipelines. 
+### > Profile
+I am a Backend Engineer focused on the architecture of high-availability systems. I spend most of my time working on microservices, performance tuning, and automating infrastructure.
 
-My engineering philosophy centers on **observability, automation, and performance.** While I have a strong foundation in full-stack development, my core expertise lies in solving complex problems on the server side and infrastructure layer.
-
----
-
-## 🛠 Tech Stack
-
-### **Backend & Core Systems**
-*   **Languages:** Go, Java (JDK 17+), Python
-*   **Frameworks:** Spring Boot, Django, Gin/Echo
-*   **Messaging:** Apache Kafka (Event-driven architecture)
-*   **Security:** OAuth2, JWT, Spring Security
-
-### **Infrastructure & DevOps**
-*   **Orchestration:** Kubernetes (K8s), Helm, Docker, Docker Compose
-*   **IaC:** Terraform
-*   **Observability:** Prometheus, Grafana, Loki (Full-stack monitoring)
-*   **CI/CD:** GitHub Actions, Nginx
-*   **Version Control:** Git
-
-### **Data Management**
-*   **Relational:** PostgreSQL, MySQL
-*   **NoSQL & Caching:** Redis, MongoDB, SQLite
-
-### **Frontend (Supporting Skills)**
-*   Next.js, Angular, Tailwind CSS, Angular Material
+While I have a background in full-stack development, I specialize in the server-side—specifically managing how data flows through distributed systems and ensuring those systems are observable and resilient.
 
 ---
 
-## 🏗 Key Projects
+### > Core Stack
 
-### **Wordium** | *Lead Backend Engineer*
-*   Architected a scalable backend using **[Insert Primary Language, e.g., Go/Java]** to handle high-concurrency user requests.
-*   Implemented **Apache Kafka** for asynchronous processing, improving system decoupling and fault tolerance.
-*   Containerized the entire ecosystem using **Docker** and orchestrated deployments via **Kubernetes** to ensure 99.9% uptime.
-*   Configured an observability stack with **Prometheus and Grafana** to monitor real-time metrics and reduce MTTD (Mean Time to Detection).
+**Languages & Frameworks**
+* **Go:** Gin, Echo, Standard Library
+* **Java:** Spring Boot, Spring Security, Hibernate
+* **Python:** Django, FastAPI
+* **Messaging:** Apache Kafka
 
-*(Optional: Add another project here that focuses on a different backend skill, like a complex API or a Database optimization project)*
+**Infrastructure & DevOps**
+* **Orchestration:** Kubernetes, Helm, Docker
+* **IaC & CI/CD:** Terraform, GitHub Actions
+* **Observability:** Prometheus, Grafana, Loki
+* **Web Servers:** Nginx, Reverse Proxies
 
----
+**Data Management**
+* **Relational:** PostgreSQL, MySQL
+* **Key-Value:** Redis
+* **NoSQL:** MongoDB
 
-## 📈 Engineering Focus
-- **System Design:** Designing for horizontal scalability and avoiding single points of failure.
-- **Reliability:** Implementing circuit breakers, retries, and proper error handling.
-- **Performance:** Database indexing, query optimization, and distributed caching strategies.
-- **Automation:** Reducing "toil" through CI/CD and Infrastructure as Code.
-
----
-
-## 💬 Connect with me
-- 🔭 I’m currently working on enhancing the distributed logging for **Wordium**.
-- ⚡ Fun fact: I prefer writing Go for its simplicity and Spring Boot for its ecosystem.
-- 📫 Reach out if you want to talk about **Microservices, K8s, or Kafka**.
+**Supporting Frontend**
+* Next.js, Angular, Tailwind CSS
 
 ---
 
-Feel free to reach out or connect.
+### > Projects
+
+**Wordium | Backend Architect**
+> A platform designed for high-concurrency content delivery.
+
+* Built the core services using **Java and Go** to balance development speed with execution performance.
+* Integrated **Apache Kafka** to handle background tasks and event-driven updates, reducing direct API pressure.
+* Deployed the system on **Kubernetes**, using **Helm** for configuration management across different environments.
+* Established a monitoring pipeline using **Prometheus and Grafana** to track request latency and system resource usage.
+
+---
+
+### > Engineering Focus
+
+* **System Design:** Implementing horizontal scaling and avoiding bottlenecks in distributed environments.
+* **Reliability:** Using circuit breakers and retry logic to handle partial system failures.
+* **Automation:** Moving away from manual configuration toward **Infrastructure as Code** and automated pipelines.
+* **Observability:** Building systems that are easy to debug through structured logging and metrics.
+
+---
+
+### > Connect
+* **Current Focus:** Enhancing distributed logging and trace analysis for microservices.
+* **Preference:** I lean toward **Go** for high-performance networking and **Spring Boot** for complex enterprise logic.
+* **Contact:** Reach out for discussions on distributed systems, K8s, or backend architecture.
