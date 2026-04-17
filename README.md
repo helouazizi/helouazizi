@@ -1,63 +1,74 @@
 # Hassan El Ouazizi
+
 ### Backend Engineer | Distributed Systems & Cloud Architecture
 
 [LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com)
 
 ---
 
-### > Profile
-I am a Backend Engineer focused on the architecture of high-availability systems. I spend most of my time working on microservices, performance tuning, and automating infrastructure.
+### About Me
 
-While I have a background in full-stack development, I specialize in the server-side—specifically managing how data flows through distributed systems and ensuring those systems are observable and resilient.
+I'm a Backend Engineer with a strong focus on designing and operating high-availability, distributed systems. My work centers on building scalable microservices, optimizing performance, and creating resilient architectures that can grow reliably under load.
+
+While I started as a full-stack developer, my expertise has deepened on the server side — particularly in how data moves through complex systems, how services communicate efficiently, and how to make large-scale applications both observable and maintainable.
 
 ---
 
-### > Core Stack
+### Core Technical Stack
 
 **Languages & Frameworks**
-* **Go:** Gin, Echo, Standard Library
-* **Java:** Spring Boot, Spring Security, Hibernate
-* **Python:** Django, FastAPI
-* **Messaging:** Apache Kafka
+- **Go** — Gin, Echo, Standard Library
+- **Java** — Spring Boot, Spring Security, Hibernate
+- **Python** — FastAPI, Django
+
+**Messaging & Event-Driven Systems**
+- Apache Kafka
 
 **Infrastructure & DevOps**
-* **Orchestration:** Kubernetes, Helm, Docker
-* **IaC & CI/CD:** Terraform, GitHub Actions
-* **Observability:** Prometheus, Grafana, Loki
-* **Web Servers:** Nginx, Reverse Proxies
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm
+- **Infrastructure as Code**: Terraform
+- **CI/CD**: GitHub Actions
+- **Observability**: Prometheus, Grafana, Loki
+- **Web & Proxy**: Nginx
 
-**Data Management**
-* **Relational:** PostgreSQL, MySQL
-* **Key-Value:** Redis
-* **NoSQL:** MongoDB
+**Data Layer**
+- **Relational**: PostgreSQL, MySQL
+- **Caching**: Redis
+- **NoSQL**: MongoDB
 
-**Supporting Frontend**
-* Next.js, Angular, Tailwind CSS
+**Frontend (for full-stack context)**
+- Next.js, Angular, Tailwind CSS
 
 ---
 
-### > Projects
+### Selected Projects
 
 **Wordium | Backend Architect**
-> A platform designed for high-concurrency content delivery.
 
-* Built the core services using **Java and Go** to balance development speed with execution performance.
-* Integrated **Apache Kafka** to handle background tasks and event-driven updates, reducing direct API pressure.
-* Deployed the system on **Kubernetes**, using **Helm** for configuration management across different environments.
-* Established a monitoring pipeline using **Prometheus and Grafana** to track request latency and system resource usage.
+A high-concurrency content delivery platform.
 
----
-
-### > Engineering Focus
-
-* **System Design:** Implementing horizontal scaling and avoiding bottlenecks in distributed environments.
-* **Reliability:** Using circuit breakers and retry logic to handle partial system failures.
-* **Automation:** Moving away from manual configuration toward **Infrastructure as Code** and automated pipelines.
-* **Observability:** Building systems that are easy to debug through structured logging and metrics.
+- Designed and implemented core backend services using **Go** and **Java** to achieve the right balance between development velocity and runtime performance.
+- Introduced **Apache Kafka** for asynchronous processing and event-driven workflows, significantly reducing load on synchronous APIs.
+- Deployed and managed the application on **Kubernetes** with **Helm** charts for consistent configuration across environments.
+- Built a comprehensive observability stack using **Prometheus** and **Grafana** to monitor latency, throughput, and resource utilization in real time.
 
 ---
 
-### > Connect
-* **Current Focus:** Enhancing distributed logging and trace analysis for microservices.
-* **Preference:** I lean toward **Go** for high-performance networking and **Spring Boot** for complex enterprise logic.
-* **Contact:** Reach out for discussions on distributed systems, K8s, or backend architecture.
+### Engineering Principles
+
+- **Scalability**: Designing systems that scale horizontally and eliminate single points of failure.
+- **Resilience**: Implementing patterns like circuit breakers, retries, and graceful degradation.
+- **Automation**: Replacing manual processes with Infrastructure as Code and reliable CI/CD pipelines.
+- **Observability**: Ensuring systems are easy to debug and monitor through structured logs, metrics, and distributed tracing.
+
+---
+
+### Let's Connect
+
+Currently deepening my work in distributed logging and tracing for microservices architectures.
+
+I particularly enjoy working with **Go** for performance-critical components and **Spring Boot** when dealing with complex enterprise requirements.
+
+Feel free to reach out if you're working on challenging backend problems, distributed systems, or Kubernetes-based platforms. I'm always open to thoughtful discussions.
+
+---
