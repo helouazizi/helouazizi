@@ -1,43 +1,65 @@
 # Hassan El Ouazizi
+### Backend Engineer | Distributed Systems & Cloud Architecture
 
-### Full-Stack Developer | Scalable Systems & Distributed Architecture
-
----
-
-## About
-
-I’m a full-stack developer focused on building scalable, maintainable, and performant systems.  
-I’m particularly interested in system design, distributed architectures, and backend engineering.
-
-- Currently working on **wordium**
-- Interested in software architecture, performance, and reliability
-- Continuously improving my engineering practices and problem-solving approach
+[LinkedIn](https://linkedin.com/in/helouazizi) · [Email](mailto:ouazizi2code@gmail.com)
 
 ---
 
-## Tech Stack
+## 🚀 About Me
+I am a Backend Engineer focused on building **high-availability, scalable, and resilient distributed systems**. I specialize in designing microservices architectures, optimizing database performance, and implementing robust CI/CD pipelines. 
 
-**Frontend**  
-Next.js · Angular · Tailwind CSS · Angular Material
-
-**Backend**  
-Spring Boot · Django · Go · Java · Python . Kafka  
-
-**Databases**  
-PostgreSQL · MySQL · SQLite · MongoDB · Redis
-
-**DevOps & Infrastructure**  
-Docker · Docker Compose · Kubernetes · Helm · Nginx  
-CI/CD (GitHub Actions) · Terraform 
-. Prometheus · Grafana  . Loki
-. Git
+My engineering philosophy centers on **observability, automation, and performance.** While I have a strong foundation in full-stack development, my core expertise lies in solving complex problems on the server side and infrastructure layer.
 
 ---
 
-## Contact
+## 🛠 Tech Stack
 
-- LinkedIn: https://linkedin.com/in/helouazizi  
-- Email: ouazizi2code@gmail.com  
+### **Backend & Core Systems**
+*   **Languages:** Go, Java (JDK 17+), Python
+*   **Frameworks:** Spring Boot, Django, Gin/Echo
+*   **Messaging:** Apache Kafka (Event-driven architecture)
+*   **Security:** OAuth2, JWT, Spring Security
+
+### **Infrastructure & DevOps**
+*   **Orchestration:** Kubernetes (K8s), Helm, Docker, Docker Compose
+*   **IaC:** Terraform
+*   **Observability:** Prometheus, Grafana, Loki (Full-stack monitoring)
+*   **CI/CD:** GitHub Actions, Nginx
+*   **Version Control:** Git
+
+### **Data Management**
+*   **Relational:** PostgreSQL, MySQL
+*   **NoSQL & Caching:** Redis, MongoDB, SQLite
+
+### **Frontend (Supporting Skills)**
+*   Next.js, Angular, Tailwind CSS, Angular Material
+
+---
+
+## 🏗 Key Projects
+
+### **Wordium** | *Lead Backend Engineer*
+*   Architected a scalable backend using **[Insert Primary Language, e.g., Go/Java]** to handle high-concurrency user requests.
+*   Implemented **Apache Kafka** for asynchronous processing, improving system decoupling and fault tolerance.
+*   Containerized the entire ecosystem using **Docker** and orchestrated deployments via **Kubernetes** to ensure 99.9% uptime.
+*   Configured an observability stack with **Prometheus and Grafana** to monitor real-time metrics and reduce MTTD (Mean Time to Detection).
+
+*(Optional: Add another project here that focuses on a different backend skill, like a complex API or a Database optimization project)*
+
+---
+
+## 📈 Engineering Focus
+- **System Design:** Designing for horizontal scalability and avoiding single points of failure.
+- **Reliability:** Implementing circuit breakers, retries, and proper error handling.
+- **Performance:** Database indexing, query optimization, and distributed caching strategies.
+- **Automation:** Reducing "toil" through CI/CD and Infrastructure as Code.
+
+---
+
+## 💬 Connect with me
+- 🔭 I’m currently working on enhancing the distributed logging for **Wordium**.
+- ⚡ Fun fact: I prefer writing Go for its simplicity and Spring Boot for its ecosystem.
+- 📫 Reach out if you want to talk about **Microservices, K8s, or Kafka**.
 
 ---
 
