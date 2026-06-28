@@ -18,11 +18,11 @@ I focus on building secure, scalable, and automated cloud infrastructure. My goa
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Cloud Platforms** | AWS, Google Cloud Platform (GCP), Azure |
-| **Infrastructure as Code** | Terraform, OpenTofu, Ansible |
+| **Infrastructure as Code** | Terraform, OpenTofu, Ansible, Pulumi |
 | **Containers & Orchestration** | Docker, Kubernetes, Helm, Kustomize |
 | **CI/CD & GitOps** | GitHub Actions, Jenkins, ArgoCD |
 | **Observability & Monitoring** | Prometheus, Grafana, OpenTelemetry |
-| **Scripting & Programming** | Python, Go, Bash, Linux |
+| **Scripting & Programming** | Python, Go, Bash |
 
 ---
 
