@@ -1,41 +1,28 @@
 # Hassan El Ouazizi
 
-**Cloud & DevOps Engineer**
+### Cloud & DevOps Engineer
 
-[LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com)
+I focus on building secure, scalable, and automated cloud infrastructure. My goal is to bridge the gap between development and operations by creating robust Internal Developer Platforms (IDPs), automating deployment pipelines, and ensuring system reliability.
+
+- 🔭 **Current Focus:** Building self-service infrastructure and optimizing developer workflows .
+- ⚙️ **I'm specializing in:** Platform Engineering.
+- 💬 **Ask me about:** Kubernetes, Terraform, AWS, archetectures and distributed systyms.
+- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com)
+
+ 
 
 ---
 
-### About Me
+### Tech Stack & Tools
 
-I am a Cloud DevOps Engineer specializing in **Platform Engineering**
-
----
-
-### Core Technical Stack
-
-**Languages & Frameworks**
-- **Go** — Gin, Echo, Standard Library
-- **Java** — Spring Boot, Spring Security, Hibernate
-- **Python** — FastAPI, Django
-
-**Messaging & Event-Driven Systems**
-- Apache Kafka
-
-**Infrastructure & DevOps**
-- **Containerization & Orchestration**: Docker, Kubernetes, Helm
-- **Infrastructure as Code**: Terraform
-- **CI/CD**: GitHub Actions
-- **Observability**: Prometheus, Grafana, Loki
-- **Web & Proxy**: Nginx
-
-**Data Layer**
-- **Relational**: PostgreSQL, MySQL
-- **Caching**: Redis
-- **NoSQL**: MongoDB
-
-**Frontend (for full-stack context)**
-- Next.js, Angular, Tailwind CSS
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | AWS, Google Cloud Platform (GCP), Azure |
+| **Infrastructure as Code** | Terraform, OpenTofu, Ansible |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm, Kustomize |
+| **CI/CD & GitOps** | GitHub Actions, Jenkins, ArgoCD |
+| **Observability & Monitoring** | Prometheus, Grafana, OpenTelemetry |
+| **Scripting & Programming** | Python, Go, Bash, Linux |
 
 ---
 
