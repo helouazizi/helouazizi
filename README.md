@@ -1,6 +1,6 @@
 # Hassan El Ouazizi
 
-### Backend Engineer | Distributed Systems & Cloud Architecture
+### Full-stack developer
 
 [LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com)
 
