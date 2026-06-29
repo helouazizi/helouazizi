@@ -26,19 +26,6 @@ I focus on building secure, scalable, and automated cloud infrastructure. My goa
 
 ---
 
-### Selected Projects
-
-**Wordium | Backend Architect**
-
-A high-concurrency content delivery platform.
-
-- Designed and implemented core backend services using **Go** and **Java** to achieve the right balance between development velocity and runtime performance.
-- Introduced **Apache Kafka** for asynchronous processing and event-driven workflows, significantly reducing load on synchronous APIs.
-- Deployed and managed the application on **Kubernetes** with **Helm** charts for consistent configuration across environments.
-- Built a comprehensive observability stack using **Prometheus** and **Grafana** to monitor latency, throughput, and resource utilization in real time.
-
----
-
 ### Engineering Principles
 
 - **Scalability**: Designing systems that scale horizontally and eliminate single points of failure.
