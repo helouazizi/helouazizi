@@ -21,7 +21,7 @@ I focus on building secure, scalable, and automated cloud infrastructure. My goa
 | **Infrastructure as Code** | Terraform, OpenTofu, Ansible, Pulumi |
 | **Containers & Orchestration** | Docker, Kubernetes, Helm, Kustomize |
 | **CI/CD & GitOps** | GitHub Actions, Jenkins, ArgoCD |
-| **Observability & Monitoring** | Prometheus, Grafana, OpenTelemetry |
+| **Observability & Monitoring** | Prometheus, Grafana, OpenTelemetry, Jaeger |
 | **Scripting & Programming** | Python, Go, Bash |
 
 ---
