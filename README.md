@@ -28,10 +28,10 @@ I focus on building secure, scalable, and automated cloud infrastructure. My goa
 
 ### Engineering Principles
 
-- **Scalability**: Designing systems that scale horizontally and eliminate single points of failure.
-- **Resilience**: Implementing patterns like circuit breakers, retries, and graceful degradation.
-- **Automation**: Replacing manual processes with Infrastructure as Code and reliable CI/CD pipelines.
-- **Observability**: Ensuring systems are easy to debug and monitor through structured logs, metrics, and distributed tracing.
+- **Fast & Scalable**: Deliver quick responses and grow computing resources effortlessly as user traffic increases.
+- **Reliable & Resilient**: Build systems that stay online 24/7, heal automatically, and handle failures without downtime.
+- **Automate Everything**: Eliminate repetitive manual tasks with code to ship software faster, safely, and without human error.
+- **Secure by Default**: Protect data and infrastructure at every step, making security a built-in standard rather than an afterthought.
 
 ---
 
