@@ -2,12 +2,10 @@
 
 ### Cloud & DevOps Engineer
 
-I focus on building secure, scalable, and automated cloud infrastructure. My goal is to bridge the gap between development and operations by creating robust Internal Developer Platforms (IDPs), automating deployment pipelines, and ensuring system reliability.
+I am dedicated to reducing developer friction and improving release velocity through automation. My work centers on Platform Engineering—treating infrastructure as a product to empower development teams. 
 
-- 🔭 **Current Focus:** Building self-service infrastructure and optimizing developer workflows .
-- ⚙️ **I'm specializing in:** Platform Engineering.
-- 💬 **Ask me about:** Kubernetes, Terraform, AWS, archetectures and distributed systyms.
-- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com)
+I enjoy discussing Kubernetes, Terraform, AWS, distributed systems, and modern CI/CD practices. <br>
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com).
 
  
 
@@ -18,9 +16,9 @@ I focus on building secure, scalable, and automated cloud infrastructure. My goa
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Cloud Platforms** | AWS |
-| **Infrastructure as Code** | Terraform, OpenTofu, Ansible, Pulumi |
-| **Containers & Orchestration** | Docker, Kubernetes, Helm, Kustomize |
-| **CI/CD & GitOps** | GitHub Actions, Jenkins, ArgoCD |
+| **Infrastructure as Code** | Terraform, Ansible, Vagrant |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm  |
+| **CI/CD & GitOps** | GitHub/Gitlab Actions, Jenkins, ArgoCD |
 | **Observability & Monitoring** | Prometheus, Grafana, OpenTelemetry, Jaeger |
 | **Scripting & Programming** | Python, Go, Bash |
 
