@@ -2,7 +2,7 @@
 
 ### Cloud & DevOps Engineer
 
-I am dedicated to reducing developer friction and improving release velocity through automation. My work centers on Platform Engineering—treating infrastructure as a product to empower development teams. 
+Cloud & DevOps Engineer focused on building reliable cloud infrastructure, automating deployment workflows, and developing self-service platforms for engineering teams. Experienced in operating production systems under strict availability standards, eliminating operational bottlenecks, and accelerating release cycles through modern automation practices. 
 
 I enjoy discussing Kubernetes, Terraform, AWS, distributed systems, and modern CI/CD practices. <br>
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/helouazizi) | [Email](mailto:ouazizi2code@gmail.com).
