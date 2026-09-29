@@ -18,8 +18,8 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/helouazizi) |
 | **Cloud Platforms** | AWS |
 | **Infrastructure as Code** | Terraform, Ansible, Vagrant |
 | **Containers & Orchestration** | Docker, Kubernetes, Helm  |
-| **CI/CD & GitOps** | GitHub/Gitlab Actions, Jenkins, ArgoCD |
-| **Observability & Monitoring** | Prometheus, Grafana, OpenTelemetry, Jaeger |
+| **CI/CD & GitOps** | GitHub/Gitlab Actions, ArgoCD |
+| **Observability & Monitoring** | Prometheus, Grafana, OpenTelemetry |
 | **Scripting & Programming** | Python, Go, Bash |
 
 ---
